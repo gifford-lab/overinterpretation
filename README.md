@@ -1,8 +1,9 @@
 # Overinterpretation
 
 This repository contains the code for the paper:
-<br />
+
 [Overinterpretation reveals image classification model pathologies](https://arxiv.org/abs/2003.08907)
+<br />
 Authors: Brandon Carter, Siddhartha Jain, Jonas Mueller, David Gifford
 
 
