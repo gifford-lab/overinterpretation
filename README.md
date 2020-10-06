@@ -2,7 +2,8 @@
 
 This repository contains the code for the paper:
 <br />
-[Overinterpretation reveals image classification model pathologies]()
+[Overinterpretation reveals image classification model pathologies](https://arxiv.org/abs/2003.08907)
+Authors: Brandon Carter, Siddhartha Jain, Jonas Mueller, David Gifford
 
 
 ## Introduction
@@ -34,3 +35,16 @@ Each script contains usage examples in the docstring.
 [train.py](train.py) supports training models on full image data as well as pixel-subsets only (specified via command line arguments, usage examples in docstring).
 
 Note that for CIFAR-10, when training models on pixel-subsets only, we keep 5% of pixels and mask the remaining 95% with zeros.
+
+
+## Citation
+
+Please cite:
+
+```bib
+@article{carter2020overinterpretation,
+  title={Overinterpretation reveals image classification model pathologies},
+  author={Carter, Brandon and Jain, Siddhartha and Mueller, Jonas and Gifford, David},
+  journal={arXiv preprint arXiv:2003.08907},
+  year={2020}
+}
