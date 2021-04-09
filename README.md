@@ -40,7 +40,7 @@ Note that for CIFAR-10, when training models on pixel-subsets only, we keep 5% o
 
 ## Citation
 
-Please cite:
+If you use our methods or code, please cite:
 
 ```bib
 @article{carter2020overinterpretation,
