@@ -43,9 +43,10 @@ Note that for CIFAR-10, when training models on pixel-subsets only, we keep 5% o
 If you use our methods or code, please cite:
 
 ```bib
-@article{carter2020overinterpretation,
+@inproceedings{overinterpretation,
   title={Overinterpretation reveals image classification model pathologies},
-  author={Carter, Brandon and Jain, Siddhartha and Mueller, Jonas and Gifford, David},
-  journal={arXiv preprint arXiv:2003.08907},
-  year={2020}
+  author={Carter, Brandon and Jain, Siddhartha and Mueller, Jonas W and Gifford, David},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  year={2021}
 }
